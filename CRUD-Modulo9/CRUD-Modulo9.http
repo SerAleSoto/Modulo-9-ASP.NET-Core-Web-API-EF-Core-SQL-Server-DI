@@ -1,0 +1,6 @@
+@CRUD_Modulo9_HostAddress = http://localhost:5105
+
+GET {{CRUD_Modulo9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
